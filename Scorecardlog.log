@@ -1,0 +1,16 @@
+com.uncia.unciascorecardproject.UnciaScorecardProjectApplication-[INFO]- 2024-05-07 15:40:58,198-Starting UnciaScorecardProjectApplication using Java 17.0.9 with PID 40916 (C:\Uncia\Uncia_Project\Uncia_Project_Resources\uncia-scorecard-project\target\classes started by E1849 in C:\Uncia\Uncia_Project\Uncia_Project_Resources\uncia-scorecard-project)-
+com.uncia.unciascorecardproject.UnciaScorecardProjectApplication-[INFO]- 2024-05-07 15:40:58,205-No active profile set, falling back to 1 default profile: "default"-
+org.springframework.boot.web.embedded.tomcat.TomcatWebServer-[INFO]- 2024-05-07 15:40:58,926-Tomcat initialized with port(s): 80 (http)-
+org.apache.catalina.core.StandardService-[INFO]- 2024-05-07 15:40:58,948-Starting service [Tomcat]-
+org.apache.catalina.core.StandardEngine-[INFO]- 2024-05-07 15:40:58,948-Starting Servlet engine: [Apache Tomcat/10.1.20]-
+org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-[INFO]- 2024-05-07 15:40:59,040-Initializing Spring embedded WebApplicationContext-
+org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext-[INFO]- 2024-05-07 15:40:59,040-Root WebApplicationContext: initialization completed in 793 ms-
+org.springframework.boot.web.embedded.tomcat.TomcatWebServer-[INFO]- 2024-05-07 15:40:59,363-Tomcat started on port(s): 80 (http) with context path ''-
+com.uncia.unciascorecardproject.UnciaScorecardProjectApplication-[INFO]- 2024-05-07 15:40:59,373-Started UnciaScorecardProjectApplication in 1.565 seconds (process running for 2.249)-
+org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-[INFO]- 2024-05-07 15:41:14,191-Initializing Spring DispatcherServlet 'dispatcherServlet'-
+org.springframework.web.servlet.DispatcherServlet-[INFO]- 2024-05-07 15:41:14,191-Initializing Servlet 'dispatcherServlet'-
+org.springframework.web.servlet.DispatcherServlet-[INFO]- 2024-05-07 15:41:14,193-Completed initialization in 2 ms-
+com.uncia.unciascorecardproject.service.ScorecardService-[INFO]- 2024-05-07 15:41:14,229-Performing an action...-
+org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin-[INFO]- 2024-05-07 15:47:57,853-Application shutdown requested.-
+org.apache.catalina.core.StandardService-[INFO]- 2024-05-07 15:47:57,888-Stopping service [Tomcat]-
+org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-[INFO]- 2024-05-07 15:47:57,889-Destroying Spring FrameworkServlet 'dispatcherServlet'-
